@@ -1,0 +1,6 @@
+CRUD
+
+C-create  add/insert  post
+R- Read   getting   get
+U-Update  update/edit  put
+D delete  delete  delete
